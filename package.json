@@ -1,0 +1,29 @@
+{
+  "name": "radslider",
+  "version": "1.0.0",
+  "description": "radslider | a responsive jQuery plugin",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-wiredep": "^3.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardhuf84/radslider.git"
+  },
+  "keywords": [
+    "jQuery",
+    "slideshow",
+    "responsive"
+  ],
+  "author": "Richard Huf <richardhuf84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardhuf84/radslider/issues"
+  },
+  "homepage": "https://github.com/richardhuf84/radslider#readme"
+}

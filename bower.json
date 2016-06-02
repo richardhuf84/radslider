@@ -1,0 +1,24 @@
+{
+  "name": "radslider",
+  "authors": [
+    "Richard <richardhuf84@gmail.com>"
+  ],
+  "description": "A jQuery Responsive Slideshow",
+  "main": "index.html",
+  "keywords": [
+    "jQuery",
+    "slideshow"
+  ],
+  "license": "MIT",
+  "homepage": "richardhuf.com.au/radslider",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
